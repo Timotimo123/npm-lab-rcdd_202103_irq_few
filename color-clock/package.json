@@ -6,8 +6,8 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-  "test": "echo 'Hello World!'"
-},
+    "test": "echo 'Hello World!'"
+  },
   "author": "",
   "license": "ISC"
 }
